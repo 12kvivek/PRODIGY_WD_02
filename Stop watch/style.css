@@ -12,7 +12,7 @@ body {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 30px;
-    margin: 0 auto; /* Center the container horizontally */
+    margin: 0 auto; 
   }
   
   h1 {
@@ -47,7 +47,7 @@ body {
   }
   
   #start {
-    background-color: #28a745; /* Green */
+    background-color: #28a745; 
     color: white;
   }
   #start:hover{
@@ -55,7 +55,7 @@ body {
   }
   
   #stop {
-    background-color:#d31326; /* Red */
+    background-color:#d31326; 
     color: white;
   }
   #stop:hover{
@@ -63,7 +63,7 @@ body {
   }
   
   #reset {
-    background-color:  #0c46e2; /* Yellow */
+    background-color:  #0c46e2; 
     color: white;
   }
   #reset:hover{
@@ -71,7 +71,7 @@ body {
   }
 
   #lapBtn {
-    background-color:  rgb(140, 15, 189); /* Blue */
+    background-color:  rgb(140, 15, 189); 
     color: white;
   }
   #lapBtn:hover{
@@ -90,7 +90,6 @@ body {
     margin: 0;
   }
   
-  /* Mobile Responsiveness */
   @media (max-width: 768px) {
     .container {
       max-width: 100%;
